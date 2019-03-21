@@ -1,0 +1,7 @@
+Cumulative Job Identification number :1(DEC)
+Nature of termination : Abnormal
+Suspected Infinite Loop
+Clock value at termination: 89f (HEX)virtual time units
+Run time for the job
+Execution time: 2207 (DECIMAL)virtual time units
+Input/output time: 0 (DECIMAL)virtual time units

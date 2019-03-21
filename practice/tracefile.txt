@@ -1,0 +1,7 @@
+												BEFORE EXECUTION		AFTER EXECUTION
+Clock		PC		Instruction		R 		EA		(R)		(EA)		(R)		(EA)
+(Dec)		(Hex)		(Hex)		(Hex)	(Hex)	(Hex)	(Hex)	(Hex)	(Hex)
+2			02			b400			0002								0000				
+3			04			1280			0001								0000				
+3			04			1280			0002				0000				0000				
+4			fffffffa			7074			0001				0000				0000				

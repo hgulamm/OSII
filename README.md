@@ -17,6 +17,30 @@ Input:
 
 4001 001
 
+Explanation:
+
+Assembly language
+
+Program length: 9 Start instruction: 4
+
+0 start: alloc 5 //store 5 in location 0
+
+2 alloc 0 //store 0 in location 2
+
+4 main: movei r3,0 //move value 0 to Register r3
+
+6 load r2,(r3) //load value of r3 t0 r2
+
+8 trap 2 //Get input value from stdin
+
+10 add r4,r2,r1 //Add r4=r1+r2
+
+12 store 2(r3),r4 //store value of r4 to location 2
+
+14 move r1,r4 //move contents of r4 to r1
+
+16 trap 1 //Output the value to console
+
 OUTPUT FORMAT: 
 
 The output displayed in console: 3 

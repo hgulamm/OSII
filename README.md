@@ -4,10 +4,17 @@ The goal of the project is to simulate a simple batch processing system. At the 
 INPUT FORMAT:
 
 Assembly Language: 
+
 Loader Format 
-Input: 009 004 
+
+Input: 
+
+009 004 
+
 00050000B60084C0 
+
 400208889702A300 
+
 4001 001
 
 OUTPUT FORMAT: 3

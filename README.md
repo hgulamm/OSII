@@ -17,6 +17,8 @@ Input:
 
 4001 001
 
-OUTPUT FORMAT: 3
+OUTPUT FORMAT: 
 
-The output displayed in console: The value -2 is added to 5
+The output displayed in console: 3 
+
+(The value -2 is added to 5)
